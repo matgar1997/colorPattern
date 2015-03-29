@@ -1,5 +1,6 @@
 public class Board {
-
+	
+	//this changed
 	int userBoard[][];
 	int answerBoard[];
 	private int currentR = 0, currentC = 0;
